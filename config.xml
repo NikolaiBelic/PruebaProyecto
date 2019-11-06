@@ -1,0 +1,8 @@
+<widget id="com.iessanvicente" versionCode="1" version="0.0.1">
+<name>My App</name>
+<description>App to do something</description>
+<author email="fernando@iessanvicente.com">Fernando Ruiz</author>
+<access origin="*"/>
+<plugin name="cordova-plugin-whitelist"/>
+<icon src="joker.jpg"/>
+</widget>
